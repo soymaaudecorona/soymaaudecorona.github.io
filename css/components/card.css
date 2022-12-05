@@ -1,0 +1,14 @@
+.card {
+  height: fit-content;
+
+}
+.card--img {
+  width: 13rem;
+    height: 14rem;
+    align-self: center;
+}
+.card--img1 {
+  width: 9rem;
+    height: 11rem;
+    align-self: center;
+}
